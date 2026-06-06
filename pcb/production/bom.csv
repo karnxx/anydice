@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,PinHeader_1x02_P2.54mm_Vertical,1,Battery,
+"C0.1ΜF2, C0.1ΜF3",C_Disc_D3.0mm_W1.6mm_P2.50mm,2,C,
+C470ΜF1,CP_Radial_D8.0mm_P3.50mm,1,C,
+"D1, D2, D3, D4",D_DO-41_SOD81_P10.16mm_Horizontal,4,1N5819,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+R4.8,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+SW2,SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,1,SW_SPST,
+U1,module_mpu6050,1,module_mpu6050,
+U2,xiao_esp32c3,1,XIAO ESP32C3,
+U3,ER_OLEDM0.91_1x-I2C,1,ER_OLEDM0.91_1x-I2C,
+U4,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm,1,TP4056-42-ESOP8,
