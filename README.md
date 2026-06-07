@@ -1,6 +1,8 @@
 # Anydice
 so this is a dice which can basically roll any number, it uses a xiao esp32c3, an oled, mpu 6040. u can set the max dice roll possibility and then shake and roll it like normal to produce a randomly generated number.
 
+i made this project as my dnd dices wud get lost alot, and it couldnt roll some numbers, and using traditional rng online is distracting.
+
 # PCB
 - custom pcb via kicad, files [here](https://github.com/karnxx/anydice/tree/main/pcb)
 
