@@ -21,3 +21,17 @@ i made this project as my dnd dices wud get lost alot, and it couldnt roll some 
 <img width="420" height="429" alt="image" src="https://github.com/user-attachments/assets/8a058296-8605-4ffc-9b93-1acc7adabf5e" />
 
 
+| Part | Qty | Cost (₹) | Link |
+|------|-----:|---------:|------|
+| xiaoesp32c3 | 1 | 146.00 | https://robocraze.com/products/esp32-c3-mini-development-board-unsoldered |
+| mpu6040 | 1 | 154.00 | https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module |
+| right angle tactile pushbutton | 1 | 10.00 | https://probots.co.in/mini-push-switch-right-angled.html |
+| tp4056 battery management | 1 | 36.00 | https://evelta.com/tp4056x-42-esop8-lithium-ion-battery-management-1a-ic-sop-8-ep/ |
+| 250mah 3.7v li-ion | 1 | 126.00 | https://probots.co.in/3-7v-250mah-lipo-battery-502030-open-ended.html |
+| capacitor 470uF | 1 | 5.00 | https://quartzcomponents.com/products/470-%C2%B5f-25v-radial-electrolytic-capacitor-through-hole |
+| schottky diode | 4 | 3.00 | https://quartzcomponents.com/products/1n5819-shottky-barrier-diode |
+| capacitor 0.1uF | 2 | 20.00 | https://quartzcomponents.com/products/10000-pf-0-1uf-ceramic-capacitor |
+| resistor 4.7kΩ | 1 | 6.00 | https://quartzcomponents.com/products/4-7k-ohm-1-4-watt-resistor |
+| OLED 1.3" 128×64 | 1 | 270.00 | https://robocraze.com/products/1-3in-oled-display |
+| PCB | 1 | 1022.61 | — |
+| **Total** |  | **1798.61** |  |
