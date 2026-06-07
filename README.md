@@ -16,5 +16,6 @@ so this is a dice which can basically roll any number, it uses a xiao esp32c3, a
 
 # BOM
 - bom is [here](https://docs.google.com/spreadsheets/d/12x69VHwHTzA7m8ty_oVYzZqYExIBdv50qRqhHhF5CHE/edit?usp=sharing)
-  
+<img width="420" height="429" alt="image" src="https://github.com/user-attachments/assets/8a058296-8605-4ffc-9b93-1acc7adabf5e" />
+
 
