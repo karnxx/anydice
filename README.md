@@ -3,6 +3,9 @@ so this is a dice which can basically roll any number, it uses a xiao esp32c3, a
 
 i made this project as my dnd dices wud get lost alot, and it couldnt roll some numbers, and using traditional rng online is distracting.
 
+# WORKING
+- so with the button you can set the max digit to roll. then u can shake the dice and actually roll it(mpu6050) to produce a final number on the oled, which is a random number between 0 and tht max digit. 
+
 # PCB
 - custom pcb via kicad, files [here](https://github.com/karnxx/anydice/tree/main/pcb)
 
