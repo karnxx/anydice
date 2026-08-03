@@ -2,16 +2,12 @@
 
 basically a digital dice, with rng and u can roll.
 
-# 2026-06-06: finished the anydice cad
+# 2026-08-03: made holes in the pcb for oled mounting
 
-**Total time spent: 2 hours**
+**Total time spent: 0.5 hours**
 
-so i finished the cad. the d6 dice, the numbers are represented by dots, and the 1 dot has the oled which will be covered by a tinted glass piece. also added a button to the 3 dot side to change the value of the thing. then i made a slot to join the top with the bottom part. you can super glue or acetone welt the parts when everything is working. also added like a ring part whereyou can zip tie the battery.
-
-![image.png](https://cdn.hackclub.com/019e9dd1-55b7-7480-9aa0-fc1475606795/image.png)
-![image.png](https://cdn.hackclub.com/019e9dd5-1f1a-7908-b0c8-f3f19f44830a/image.png)
-
-https://lapse.hackclub.com/timelapse/Tcjek8nn16Q6
+i made holes on the pcb such that an oled can be fitted with spacers. if my oled's dimensions are different(india) i could drill hole.  
+![image.png](https://cdn.hackclub.com/019fc7fe-e11f-7aa3-84b9-7f3b8c4fcb57/image.png)
 
 # 2026-06-06: finished the anydice cad
 
